@@ -1,0 +1,12 @@
+{
+  "name": "node_tcp",
+  "version": "1.0.0",
+  "main": "main.js",
+  "bin": "main.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "socket.io": "^2.2.0",
+    "socketio-wildcard": "^2.0.0"
+  }
+}
